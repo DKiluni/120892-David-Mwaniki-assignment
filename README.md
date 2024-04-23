@@ -1,4 +1,4 @@
-Project Title - HudumaScoolSystem
+Project Title - HudumaSchoolSystem
 
 Group 5 members 
 
